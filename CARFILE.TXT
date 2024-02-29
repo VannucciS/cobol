@@ -1,0 +1,20 @@
+Toyota Cam V6                 1000 lbs John Smith    
+Ford F-150  V8                13000 lb Emily Johnson  
+Honda Civi Inline-4           N/A      Michael Williams
+Chevrolet  V8                 12000 lb Jessica Brown  
+BMW 3 Seri Inline-6           N/A      Daniel Wilson  
+Jeep Wrang V6                 3500 lbs Samantha Taylor
+Tesla Mode Electric           N/A      Robert Martinez
+Audi Q5    Inline-4           4400 lbs Olivia Anderson
+Dodge Chal V8                 N/A      Ethan Moore     
+Subaru Out Flat-4             2700 lbs Ava Garcia     
+GMC Sierra V8                 11000 lb Mia Lopez      
+Volkswage Inline-4            N/A      Liam Perez     
+Ford Musta V8                 N/A      Charlotte Lee  
+Toyota Tac V6                 6800 lbs Ethan Brown    
+Mercedes-B Inline-4           N/A      Isabella Wang  
+Nissan Rog Inline-4           N/A      Liam Murphy    
+RAM 1500   V8                 10750 lb Mia Martinez   
+Hyundai Tu Inline-4           2000 lbs Elijah Harris  
+Kia Sporta Inline-4           2000 lbs Zoey Campbell  
+Lexus RX   V6                 3500 lbs Jacob Clark
